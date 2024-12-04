@@ -15,7 +15,7 @@
 
         answers: ''+m[h],
 	authors: ['VeronikaKit'],
-	});
+    });
     NAtask.modifiers.allDecimalsToStandard(/*true*/);
 }, 20000);})();
 /*119974 121217 121715 513707 525017 525040 121219 121221 121223 121225 121227 
